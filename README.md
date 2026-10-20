@@ -1,13 +1,13 @@
 # Babreen Enterprise
 
-A kids’ one-stop shop in Goderich, Sierra Leone, offering children’s clothes, shoes, bags, toys, gifts, party accessories and more.
+A kids’ one-stop shop in Goderich, Sierra Leone: clothes, shoes, bags, toys, gifts, party accessories and more.
 
 ## Public pages
 
-- [Shop and checkout](https://babreenenterprise.prxncedxvid.chatgpt.site/)
-- [Store dashboard](https://babreenenterprise.prxncedxvid.chatgpt.site/dashboard/)
+- [Shop and checkout](https://elprinced.github.io/babreen/)
+- [Store dashboard](https://elprinced.github.io/babreen/dashboard/)
 
-This GitHub Pages project is the public entry point to Babreen’s storefront and dashboard.
+These Pages links open the full Babreen storefront and dashboard.
 
 ## Contact
 
@@ -15,4 +15,4 @@ This GitHub Pages project is the public entry point to Babreen’s storefront an
 Phone: 075956277  
 Email: babreenenterprise@gmail.com
 
-Checkout prepares an email order request so the shop can confirm current stock, final prices, payment and delivery or collection details.
+Checkout prepares an email order request for Babreen to confirm stock, final prices, payment, and collection or delivery details.
